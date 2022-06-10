@@ -1,4 +1,4 @@
-### AluraKut
+# AluraKut
 
 Construção da página do Orkut
 
